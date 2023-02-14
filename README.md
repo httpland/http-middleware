@@ -45,6 +45,8 @@ interface Handler {
 - [http-cors](https://github.com/httpland/http-cors) - Enable CORS
 - [http-log](https://github.com/httpland/http-log) - Log for request and
   response
+- [http-etag](https://github.com/httpland/http-etag) - ETag calculate and
+  validate
 
 ## License
 
