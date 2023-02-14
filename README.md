@@ -40,6 +40,12 @@ interface Handler {
 - It can access the next handler's return value (`Response`).
 - It can return `Response`.
 
+## Middleware
+
+- [http-cors](https://github.com/httpland/http-cors) - Enable CORS
+- [http-log](https://github.com/httpland/http-log) - Log for request and
+  response
+
 ## License
 
 Copyright © 2023-present [httpland](https://github.com/httpland).
